@@ -1,10 +1,10 @@
 # Surfboard Challenge
 
-# Criteria
-
 # Technologies
 
 HTML, CSS, Flask & SQLAlchemy
+
+# Criteria
 
 Please design and implement a product for users to run investor meetings in. Your product should meet the following product requirements, at a minimum:
 
